@@ -1,3 +1,4 @@
 
 The line modified in the same branch.
 Added new feature using Git branch workflow
+This line was modified in the conflict-test branch.
