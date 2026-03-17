@@ -1,3 +1,3 @@
 
-This is my git verion control conflict test.
+This is my git verion control conflict-test branch.
 Added new feature using Git branch workflow
